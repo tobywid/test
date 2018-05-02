@@ -1,2 +1,3 @@
 Change2
 Master added line 1
+Line added by another user
